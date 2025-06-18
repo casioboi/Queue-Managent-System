@@ -18,6 +18,9 @@ A web app built to streamline customer service order in busy environments like s
 Due to client agreements, source code is not available. Please reach out if you’d like a walkthrough.
 
 ## 📷 Screenshots
+Customer Login Page
+![image](https://github.com/user-attachments/assets/acb493c0-401f-48c1-9583-234ecc0bd1d4)
+
 ![Admin Dashboard]
 ![image](https://github.com/user-attachments/assets/829196b5-4084-4a76-8d0f-17a6b42d26d3)
 
